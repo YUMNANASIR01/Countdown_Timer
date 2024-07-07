@@ -1,4 +1,4 @@
-
+#! usr/bin/env node
 // In this project, you will build a countdown timer using the date module.
 
 import inquirer from "inquirer";
